@@ -18,7 +18,7 @@
 - 🧠 **CAT4** – Cognitive Abilities Test  
 - 🧾 Progress Tests, mocks, and other internal assessments  
 
-It’s not fancy or premium – just straight-up useful. Built by students, for students.
+NOTE: you need your own chatgpt api key to even use this tool, create a api link on our site
 
 ---
 
